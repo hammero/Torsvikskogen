@@ -2,3 +2,19 @@ body {
     background-image: url("images/torsvikskogenbakgrunn.JPG");
     background-size: cover;
 }
+
+div {
+    width: 600px;
+    height: 300px;
+    background-color: rgba(44, 113, 170, 0.466);
+    border-radius: 25px;
+    position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    
+    margin: auto;
+}
+
+
